@@ -84,3 +84,5 @@ components:
         name: MACHINE_NAME
       - value: /projects
         name: JUPYTER_NOTEBOOK_DIR
+      - value: https://s3public.oss.eu-west-0.prod-cloud-ocb.orange-business.com/che7/scripts/maap_init_BIOMASS-3043.sh
+        name: MAAP_INIT_SCRIPT_URL1
